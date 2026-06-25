@@ -13,6 +13,7 @@ Tabbit 链接：[白毛股神 X 观点蒸馏日报](https://web.tabbit.com/share
 ## 文件
 
 - [SKILL.md](SKILL.md)：Agent 工作流说明与输出模板。
+- [examples/evidence-tiering-workflow.md](examples/evidence-tiering-workflow.md)：证据链与传闻分级工作流示例，展示如何把 X 热点拆成原始材料、多源转述、社群线索和市场反应。
 
 ## 原创性说明
 
